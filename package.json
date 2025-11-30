@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mrahmed0702.github.io/frontend-4_Week-2-Project_Nov-30",
+  "homepage": "https://https://mrahmed0702.github.io/Frontend-4_Week-2-Project_Nov-30/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
